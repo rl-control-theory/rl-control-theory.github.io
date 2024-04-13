@@ -45,5 +45,5 @@ __Formatting:__ We have a short and long format submission track:
 * Long format: Up to 8 pages plus references and appendix.
 
 __Submission:__ via our [OpenReview site](https://openreview.net/group?id=ICML.cc/2024/Workshop/RLControlTheory) <br>
-__Template:__ tbd<br>
+__Template:__ [here](assets/icml2024_RLControlTheory.zip)<br>
 __Reviews:__ Submissions will be evaluated by a reviewing committee. There will be a single round of reviews and no author response.<br>
