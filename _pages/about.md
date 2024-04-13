@@ -24,7 +24,7 @@ Despite rapid advances in machine learning, solving large-scale stochastic dynam
 
 ## Confirmed Speakers
 {% assign sorted_speakers = site.speakers | sort: "importance" %}
-<div style="margin-top: 20px; display: flex; gap: 20px; flex-wrap: wrap;">
+<div style="margin-top: 20px; display: flex; gap: 20px; flex-wrap: wrap; justify-content: center">
   {% for speaker in sorted_speakers %}
     {% include speakers.liquid %}
   {% endfor %}
@@ -33,7 +33,7 @@ Despite rapid advances in machine learning, solving large-scale stochastic dynam
 
 ## Organizers
 {% assign sorted_organizers = site.organizers | sort: "importance" %}
-<div style="margin-top: 20px; display: flex; gap: 20px; flex-wrap: wrap;">
+<div style="margin-top: 20px; display: flex; gap: 20px; flex-wrap: wrap; justify-content: center">
   {% for organizer in sorted_organizers %}
     {% include organizers.liquid %}
   {% endfor %}

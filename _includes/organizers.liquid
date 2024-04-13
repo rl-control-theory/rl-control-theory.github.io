@@ -1,6 +1,6 @@
 <!-- <div class="grid-sizer"></div> -->
 <div>
-    <div class="card hoverable" style="flex-direction: row; align-items: center; width: 420px;">
+    <div class="card hoverable organizer" style="align-items: center;">
       <div style="width: 180px; height: 140px; overflow: hidden;">
       <div {% if organizer.horizontal %}class="horizontal-organizer"{% endif %} style="margin-top: -{{organizer.mt}}px; margin-left: -{{organizer.ml}}px; padding-left: {{organizer.pad}}px; padding-right: {{organizer.pad}}px; background-color: aliceblue;">
         {%
@@ -12,8 +12,8 @@
         %}
       </div>
       </div>
-      <div class="card-body" style="padding-top: 0.5rem; padding-bottom: 0.5rem">
-        <h2 class="card-title" style="font-size: 1.1rem; margin-bottom: 0.1rem">{{ organizer.title }}</h2>
+      <div class="card-body">
+        <h2 class="card-title" style="margin-bottom: 0.1rem">{{ organizer.title }}</h2>
         <p class="card-text" style="margin-bottom: 0.5rem">{{ organizer.affiliation }}</p>
         <div style="display: flex; gap: 10px; font-size: 0.9rem">
           {% if organizer.homepage %}

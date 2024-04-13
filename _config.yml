@@ -2,10 +2,10 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: RL and Control Theory Workshop # the website title (if blank, full name will be used instead)
-first_name: RL and Control
+title: Foundations of RL and Control Workshop 2024 # the website title (if blank, full name will be used instead)
+first_name: 
 middle_name: 
-last_name: Theory
+last_name: 
 email: 
 description: # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: ", the workshop organizers."

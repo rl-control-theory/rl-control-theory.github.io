@@ -31,3 +31,41 @@ $max-content-width: {{ site.max_width }};
   height: 140px;
   width: auto;
 }
+
+.organizer {
+  width: 180px;
+  flex-direction: column;
+}
+
+.organizer .card-title {
+  font-size: 1rem !important;
+}
+
+.organizer .card-text {
+  font-size: 0.9rem !important;
+}
+
+.organizer .card-body {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+@media (min-width: 460px) {
+  .organizer {
+    width: 420px;
+    flex-direction: row; 
+  }
+
+  .organizer .card-title {
+    font-size: 1.1rem !important;
+  }
+  
+  .organizer .card-text {
+    font-size: 1rem !important;
+  }
+  
+  .organizer .card-body {
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+  } 
+}
