@@ -5,8 +5,6 @@ title: "Call for Papers"
 nav: true
 ---
 
-# Call for Papers
-
 <!-- Despite rapid advances in machine learning, solving large-scale stochastic dynamic programming problems remains a significant challenge. The combination of neural networks with RL has opened new avenues for algorithm design, but the lack of theoretical guarantees of these approaches hinders their applicability to high-stake problems traditionally addressed using control theory, such as online supply chain optimization, industrial automation, and adaptive transportation systems. This workshop focuses on recent advances in developing a learning theory of decision (control) systems, that builds on techniques and concepts from two communities that historically had limited interactions despite their shared goals: Reinforcement learning (RL) and control theory. -->
 
 This workshop aims to connect reinforcement learning and control theory, and bring together researchers from both fields. In particular, we invite contributions on all fundamental and theoretical aspects, with a special emphasis on topics that connect both fields and provide new perspectives. Contributions that bridge theory and applications are also welcome. We believe that significant progress in tackling large-scale applications can only be achieved through collaborative efforts and a mutual understanding of each field's strengths and approaches. Our workshop is dedicated to fostering dialogue and collaboration, paving the way for breakthroughs in complex dynamic programming challenges and interactive systems.
@@ -46,6 +44,6 @@ __Formatting:__ We have a short and long submission track:
 * Short format: Up to 4 pages plus references and appendix.
 * Long format: Up to 8 pages plus references and appendix.
 
-__Submission:__ via our [OpenReview site](https://openreview.net/group?id=ICML.cc/2024/Workshop/RLControlTheory)<br>
+__Submission:__ via our [OpenReview site](https://openreview.net/group?id=ICML.cc/2024/Workshop/RLControlTheory) <br>
 __Template:__ tbd<br>
 __Reviews:__ Submissions will be evaluated by a reviewing committee. There will be a single round of reviews and no author response.<br>
