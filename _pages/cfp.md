@@ -40,7 +40,7 @@ __Workshop:__ During the ICML 24 workshops from July 26 - 27, 2024. Exact dates 
 
 ## Submission Instructions
 
-__Formatting:__ We have a short and long submission track:
+__Formatting:__ We have a short and long format submission track:
 * Short format: Up to 4 pages plus references and appendix.
 * Long format: Up to 8 pages plus references and appendix.
 
