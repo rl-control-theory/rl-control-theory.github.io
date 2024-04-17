@@ -41,4 +41,4 @@ Despite rapid advances in machine learning, solving large-scale stochastic dynam
 <br><br>
 
 ## Contact
-(coming soon)
+If you have any questions, please contact us at [forlac.workshop@gmail.com](mailto:forlac.workshop@gmail.com).
