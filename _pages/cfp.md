@@ -11,6 +11,8 @@ This workshop aims to reinforce the connection between reinforcement learning an
 
 We invite researchers to submit papers on the topics listed below. All accepted papers will be presented as posters or selected for contributed talks. There will be no proceedings, however, accepted papers will be made available through the OpenReview website. We allow submission of published or already peer-reviewed papers but we ask authors to indicate this in the submission form for transparency.
 
+_Note on parallel submissions to the ICML workshop on 'Aligning Reinforcement Learning Experimentalists and Theorists'_: We ask authors to submit works to only one of the two workshops; and we reserve the right to coordinate and only accept the work at one of the workshops.
+
 
 ### Topics
 
@@ -47,3 +49,4 @@ __Formatting:__ We have a short and long format submission track:
 __Submission:__ via our [OpenReview site](https://openreview.net/group?id=ICML.cc/2024/Workshop/RLControlTheory) <br>
 __Template:__ You may use either a [double-column](assets/forlac2024-double.zip) or a [single-column](assets/forlac2024-single.zip) format.<br>
 __Reviews:__ Submissions will be evaluated by a reviewing committee. There will be a single round of reviews and no author response.<br>
+
