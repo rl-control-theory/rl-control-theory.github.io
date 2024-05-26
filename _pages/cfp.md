@@ -47,6 +47,6 @@ __Formatting:__ We have a short and long format submission track:
 * Long format: Up to 8 pages plus references and appendix.
 
 __Submission:__ via our [OpenReview site](https://openreview.net/group?id=ICML.cc/2024/Workshop/RLControlTheory) <br>
-__Template:__ You may use either a [double-column](assets/forlac2024-double.zip) or a [single-column](assets/forlac2024-single.zip) format.<br>
+__Template:__ You may use either a [double-column](assets/forlac2024-double.zip) or a [single-column](assets/forlac2024-single.zip) format. For the single-column (NeurIPS-style) template, long papers may be up to 9 pages long.<br>
 __Reviews:__ Submissions will be evaluated by a reviewing committee. There will be a single round of reviews and no author response.<br>
 
