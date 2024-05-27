@@ -35,10 +35,10 @@ Technical topics include, but are not limited to, the following aspects:
 
 ## Important Dates
 
-__Submission Deadline:__ May 27, 2024 (AoE) <br>
+__Submission Deadline (extended):__ May 29, 2024 (AoE)<br>
 __Acceptance Notification:__ June 17, 2024 (AoE)<br>
 __Camera Ready:__ tbd<br>
-__Workshop:__ During the ICML 24 workshops from July 26 - 27, 2024. Exact dates will be announced soon.<br>
+__Workshop:__ July 27, 2024 (Saturday)<br>
 
 ## Submission Instructions
 
