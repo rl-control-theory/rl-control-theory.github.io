@@ -37,7 +37,7 @@ Technical topics include, but are not limited to, the following aspects:
 
 __Submission Deadline (extended):__ May 29, 2024 (AoE)<br>
 __Acceptance Notification:__ June 17, 2024 (AoE)<br>
-__Camera Ready:__ tbd<br>
+__Camera Ready:__ July 27, 2024 (AoE)<br>
 __Workshop:__ July 27, 2024 (Saturday)<br>
 
 ## Submission Instructions
